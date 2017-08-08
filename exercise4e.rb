@@ -9,3 +9,7 @@ elsif (secret_number - your_number).abs == 1
 else
   puts "try again"
 end
+
+while true
+  puts "i'm an infinite loop!"
+end
